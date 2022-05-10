@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1652154522 source:c:\users\uu187\desktop\week12_trt_trt\main.cpp
+	<GL/glut.h>
+
+1652151298 c:\users\uu187\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1652151298 c:\users\uu187\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
